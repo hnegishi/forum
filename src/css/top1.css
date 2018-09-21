@@ -1,0 +1,50 @@
+.content{
+	width:90%;
+	padding:5px;
+	margin:auto;
+}
+
+.tagSearch{
+	float:left;
+	margin-left:18%;
+}
+
+
+.thread{
+	float:left;
+	width:40%;
+}
+
+.title {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap
+	display:inline;
+	font-family:'メイリオ','Hiragino Kaku Gothic Pro',sans-serif;
+	padding-left:15%;
+}
+
+.title .desc{
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  font-size: calc(18px + 0.25vw);
+}
+
+.sub{
+	float:left;
+	text-align:center;
+	width:20%;
+}
+.newThread{
+	display:block;
+}
+
+.footter{
+	clear:both;
+	width:80%;
+	text-align:center;
+	font-size:20px;
+	margin-left:10%;
+}

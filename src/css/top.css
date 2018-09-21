@@ -1,0 +1,39 @@
+thread {
+	margin:3%;
+	padding:3%;
+	background: red;
+	color: red;
+	text-align:center;
+	font-family: 'RobotoDraft', 'Roboto', sans-serif;
+	font-size:15px;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+article {
+
+	width:90%;
+	margin:auto;
+	border:solid 1px #aaaaaa;
+}
+
+.parent{
+ text-align:center;
+  width: 300px;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #aaa;
+  position: relative;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.img{
+  vertical-align: middle;
+}
+.inner{
+  width: 220px;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 10px;
+}

@@ -1,0 +1,21 @@
+header {
+	overflow:hidden;
+	background-color:#E6E6E6;
+	text-align:;
+	padding:10px;
+	padding-left:350px;
+	padding-right:350px;
+}
+.left {
+	height:auto;
+	width:20%;
+	float:left;
+}
+.right{
+	 width: 60%;
+	float:left;
+	    margin-left: 2%;
+}
+.snd{
+
+}

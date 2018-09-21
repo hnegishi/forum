@@ -1,0 +1,21 @@
+.example05 li {
+	display: inline;
+}
+.example05 li strong {
+	display: -moz-inline-box;
+	display: inline-block;
+	padding: 2px 7px 4px;
+	background: #EEE;
+	border: 1px #CCC solid;
+}
+.example05 li a {
+	display: -moz-inline-box;
+	display: inline-block;
+	padding: 2px 7px 4px;
+	border: 1px #CCC solid;
+}
+.example05 li a:hover {
+	border: 1px solid #2D88B3;
+	background: #2D88B3;
+	color: #FFF;
+}

@@ -1,0 +1,29 @@
+header {
+	display:block;
+	height:auto;
+	width:100%;
+	background-color:#E6E6E6;
+	text-align:;
+	padding:10px;
+	padding-left:25%;
+	padding-right:25%;
+	overflow:hidden;
+}
+
+.img{
+	float:left;
+	margin-left:;
+}
+
+.title{
+	font-size:2em;
+	padding-left:20%;
+	padding-right: 10%;
+}
+
+.content{
+	height:300px;
+	clear:both;
+	word-break: break-all;
+	display:inline;
+}
